@@ -1,46 +1,40 @@
-# MSW Open Music Project
-
-[![CI](https://github.com/heimoshuiyu/msw-open-music/actions/workflows/build.yml/badge.svg)](https://github.com/heimoshuiyu/msw-open-music/actions/workflows/build.yml)
-
-🔴 Demo: <https://msw-open-music.live>
-
-[中文文档](./README-cn.md)
+# Music Management Project
 
 > The best way to search for a music is to load up a huge playlist and shuffle until you find it.
 
-A 💪 light weight ⚡️ blazingly fast 🖥️ cross platform personal music streaming platform. Manage your existing music files and enjoy them on any devices.
+This is a cross platform personal music streaming platform. Manage your existing music files and enjoy them on any devices.
 
-Front-end web application build with `react.js` and `water.css`, back-end build with `golang` and `sqlite`.
+It is developed and built using `react.js` and `water.css` for front-end, `golang` and `sqlite` for back-end.
 
 ## Introduction
 
-Screenshot
+Here is screenshot.
 
 ![demo1](demo1.jpg)
 
 ### Features
 
-- 🔎 Index your existing music files, and record file name and folder information.
+- Index your existing music files, and record file name and folder information.
 
-- 📕 Use folder 📁 tag 🏷️ review 💬 to manage your music.
+- Use folder tag review to manage your music.
 
-- 🌐 Provide a light weight web application with multi-language support.
+- Provide a light weight web application with multi-language support.
 
-- 👥 Multi-user support.
+- Multi-user support.
 
-- 🔥 Call `ffmpeg` with customizable preset to stream your music.
+- Call `ffmpeg` with customizable preset to stream your music.
 
-- 🔗 Share music with others!
+- Share music with others!
 
 ### Try it if you...
 
-- Already saved a lot of music files on disk. 🖴
+- Already saved a lot of music files on disk.
 
-- Downloaded tons of huge lossless music. 🎵
+- Downloaded tons of huge lossless music.
 
-- Wants to stream your music files from PC/Server to PC/phone. 😋
+- Wants to stream your music files from PC/Server to PC/phone.
 
-- Wants to share your stored music. 😘
+- Wants to share your stored music.
 
 ## Usage
 
